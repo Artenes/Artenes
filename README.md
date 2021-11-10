@@ -22,3 +22,19 @@ Senior Android developer with knowledge in TDD and best practices in software ar
 # My sample apps
 
 Some android apps I made to practice some ideas and concepts.
+
+## Ostatic ([Repo](https://github.com/Artenes/ostatic) | [Play Store](https://play.google.com/store/apps/details?id=io.github.artenes.ostatic.playstore))
+Music player that streams video game music
+
+## Speed Bro ([Repo](https://github.com/Artenes/speedbro) | [Play Store](https://play.google.com/store/apps/details?id=br.com.artenes.speedbro.api))
+Video stream app that plays speed run videos from youtube.
+
+## Lido ([Repo](https://github.com/Artenes/android-todo-list) | [Play Store](https://play.google.com/store/apps/details?id=bok.artenes.todoapp))
+To-do app to track tasks
+
+## Conpi ([Repo](https://github.com/Artenes/counter-random) | [Play Store](https://play.google.com/store/apps/details?id=io.github.artenes.counter))
+Simple counter app with haptic feedback.
+
+## Clucko ([Repo](https://github.com/Artenes/clucko) | [Play Store](https://play.google.com/store/apps/details?id=io.github.artenes.clucko))
+App to manage clock-ins and clock-outs in your daily job.
+
