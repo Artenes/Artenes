@@ -5,8 +5,11 @@ Senior Android developer with knowledge in TDD and best practices in software ar
 # Experience
 
 **Company:** SIDIA - Samsung
+
 **Role:** Senior Android Developer
+
 **Time:** 2017 – now
+
 **What I've done**
 
 - Lead in developing solutions for Samsung's Retail application used in thousands of devices in stores around the world. The focus of the work is to identify points of improvement, develop automated tests to ensure quality and provide maintenance for the application's operation in new Samsung models launched globally.
