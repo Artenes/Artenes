@@ -1,3 +1,3 @@
 # About me
 
-Senior Java developer with knowledge in TDD and best practices in software architecture. I also have some experience with web development using node and react.
+Senior software engineer, has experience with android development, but now is focusing on working with back-end applications in java and learning about AI and how it can make our lifes easier.
